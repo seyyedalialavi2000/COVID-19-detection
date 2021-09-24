@@ -4,7 +4,7 @@ The novel coronavirus (also known as COVID-19) was discovered in Wuhan and soon 
 
 ## Dataset
 
-click here to [download]https://github.com/seyyedalialavi2000/COVID-19-detection/tree/master/dataset/X-Ray%20Image%20DataSet) dataset
+click here to [download](https://github.com/seyyedalialavi2000/COVID-19-detection/tree/master/dataset/X-Ray%20Image%20DataSet) dataset
 
 ## method?
 
