@@ -6,7 +6,7 @@ The novel coronavirus (also known as COVID-19) was discovered in Wuhan and soon 
 
 click here to [download](https://github.com/seyyedalialavi2000/COVID-19-detection/tree/master/dataset/X-Ray%20Image%20DataSet) dataset
 
-## method?
+## method
 
 This article employs pre-trained neural networks, which is a relatively new technique. This method extracts features from X-ray images using readily available pre-trained model, DensNet169. In the second step, we use one of the feature selection methods (ANOVA) to obtain an adequate number of features for classification, and XGBoost was employed as a clasifer.
 
